@@ -1,6 +1,6 @@
 Taichi Exercise Effectiveness Prediction
 This project investigates the mental health benefits of Taichi exercises among secondary school students in China using machine learning. By analyzing psychological data from the SCL-90 questionnaire, we predict distress levels to evaluate Taichi’s effectiveness. The pipeline includes data preprocessing, feature engineering, model training with Random Forest and XGBoost, and visualization of results.
-Objectives
+Objectives 
 
 Assess mental health benefits (e.g., reduced distress) of Taichi using SCL-90 scores.
 Preprocess data from student surveys, including demographic and exercise details.
